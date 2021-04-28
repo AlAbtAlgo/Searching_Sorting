@@ -62,8 +62,8 @@ Following are the types of searches which we will be discussing in this book.
 
 ## Questions :
 
-* Insertion Sort ----> [C++](/Code/C++/insertion_sort.cpp)
-* Merge Sort ----> [C++](/Code/C++/merge_sort.cpp)
-* Quick Sort ----> [C++](/Code/C++/quick_sort.cpp)
-* Heap Sort ----> [C++](/Code/C++/heap_sort.cpp)
-* Rabin Karp Algorithm ----> [C++](/Code/C++/rabin_karp.cpp)
+* Insertion Sort 
+* Merge Sort 
+* Quick Sort
+* Heap Sort
+* Rabin Karp Algorithm 
